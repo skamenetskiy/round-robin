@@ -1,4 +1,4 @@
-# round-robin
+# round-robin [![Test](https://github.com/skamenetskiy/round-robin/actions/workflows/go.yml/badge.svg)](https://github.com/skamenetskiy/round-robin/actions/workflows/go.yml)
 
 round-robin is balancing algorithm written in golang (with generics)
 
